@@ -1,3 +1,11 @@
 .idea/
 logs/
 __pycache__/
+venv/
+ENV/
+env/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
